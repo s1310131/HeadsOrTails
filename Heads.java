@@ -27,7 +27,7 @@ public class Heads{
     }
 
     System.out.println("Heads: "+h+", Tails: "+t);
-    if(h>t) System.out.println(name+" won");
-    else System.out.println(name" lost");
+    if(h>t) System.out.println(name+" won!");
+    else System.out.println(name" lost...");
     }
 }
